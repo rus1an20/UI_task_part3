@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UI task part3</string>
+    <string name="name">Dr. Oleg Mayami</string>
+    <string name="text">Text</string>
+    <string name="call">Call</string>
+    <string name="email">Email</string>
+    <string name="scan_to_connect">Scan To Connect</string>
+    <string name="num">+996 (774) 678 876</string>
+    <string name="mail">oleg.mayami93@gmail.com</string>
+</resources>
